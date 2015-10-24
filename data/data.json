@@ -1,0 +1,31 @@
+{
+			"default" : { 
+				"name" : "default", 
+				"suitability" : {
+					"question1" : false,
+					"question2" : true,
+					"question3" : false
+				},
+				"address" : {
+					"line1":"24",
+					"line2":"Garth rd",
+					"postcode":"SV09TYA"
+				}
+			}
+		,
+		
+			"other" : 
+			{
+				"name" : "other",
+				"suitability" : {
+					"question1" : true,
+					"question2" : false,
+					"question3" : false
+				},
+				"address" : {
+					"line1":"199",
+					"line2":"Seely rd",
+					"postcode":"TN131RT"
+				}
+			}
+}	
